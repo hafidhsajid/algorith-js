@@ -1,1 +1,1 @@
-# Algorithm and structure using Javascript
+# Algorithm and data structure using Javascript
