@@ -22,4 +22,4 @@ most.forEach((e)=>{
         
     }
 })
-console.log(`${res},${rescount}`);
+console.log(`number input: ${res}, count: ${rescount}`); // expect input: 4, count: 7
